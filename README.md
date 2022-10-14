@@ -63,17 +63,6 @@ pnpm dev
 
 Open `http://localhost:3000` with your browser to see the result.
 
-## Testimonials
-
-> [**“This starter is by far the best TypeScript starter for Next.js. Feature packed but un-opinionated at the same time!”**](https://github.com/jpedroschmitz/typescript-nextjs-starter/issues/87#issue-789642190)<br>
-> — Arafat Zahan
-
-> [**“I can really recommend the Next.js Typescript Starter repo as a solid foundation for your future Next.js projects.”**](https://corfitz.medium.com/create-a-custom-create-next-project-command-2a6b35a1c8e6)<br>
-> — Corfitz
-
-> [**“Brilliant work!”**](https://github.com/jpedroschmitz/typescript-nextjs-starter/issues/87#issuecomment-769314539)<br>
-> — Soham Dasgupta
-
 ## Showcase
 
 List of websites that started off with Next.js TypeScript Starter:
@@ -119,10 +108,6 @@ import { Button } from '@/components/Button';
 // To import images or other files from the public folder
 import avatar from '@/public/avatar.png';
 ```
-
-### Switch to Yarn/npm
-
-This starter uses pnpm by default, but this choice is yours. If you'd like to switch to Yarn/npm, delete the `pnpm-lock.yaml` file, install the dependencies with Yarn/npm, change the CI workflow, and Husky Git hooks to use Yarn/npm commands.
 
 ## License
 
